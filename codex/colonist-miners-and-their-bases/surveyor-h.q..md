@@ -1,0 +1,7 @@
+---
+description: Colonist Thaxene and Pyroleum harvesting and processing module
+---
+
+# Surveyor H.Q.
+
+Thaxene and Pyroleum mining and harvesting center. This unit is unique. It relies upon a technology developed to mimic slime mold in order to discover subterranean deposits. Minute, burrowing tendrils composed of a liquid metal, non-Newtonian fluid embedded with nanoparticle sensors spread out from the central hub below the core. Upon contact with the smallest fraction of Thaxene or Pyroleum molecules in the soil the tendrils immediately begin to increase concentration to the area. Upon contact with a full deposit pocket, the fluid blocks the access hole it has made and through a process of applied electrical current opens a passageway within itself, somewhat like a straw, to allow the gas or oil to flow through back to Surveyor HQ processing and containment. This electrified metal straw can be dilated or constricted to control flow rate, thereby protecting the equipment from blowouts, while keeping processing speed at maximum optimal levels. The sensors built in to the fluid are able to differentiate between oil and gas and route them to their appropriate processing sector. Once the pressure has been eliminated by draining the deposit, new deposits are automatically sought out along preestablished pathways. In many ways the process is like the spreading of tree roots, but drastically more beneficial and effective for the acquisition of the precious materials.

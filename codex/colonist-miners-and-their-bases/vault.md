@@ -1,0 +1,7 @@
+---
+description: Colonist storage bunker module
+---
+
+# Vault
+
+As its name suggests, a vault serves as a bunker for the Colonist’s acquired resources. The appearance from the outside is relatively unassuming—a squat dome covered with shallow spherical depressions. The vault is designed for one thing, impenetrability, and it does its job very well. The structure is built of 20 to 55 layers of subpacks. Each subpack is composed of many hundreds of overlaid sheets of extremely durable, high-tensile strength, woven Teknite fibers, these sheets are custom fabricated to be seamless and dome-shaped. Sandwiched between each subpack is a Teknite-eonite composite rebar frame. These frames are capable of transmuting impact energy into motive power to drive the electromagnetic repulser engine integrated below the subframe of the vault. This system essentially utilizes initial attacks against the structure to diminish the effects of subsequent attacks by producing an extremely powerful magnetic barrier which simultaneously diminishes the speed of incoming projectiles and potentially disrupts their internal electronics. Vaults are both time-locked and biometric by design, thereby preventing unauthorized access and limiting the likelihood of coerced incursion. If seen in a cutaway the walls are so compressed into the dome shape that they appear as solid, though textured, concrete. Vaults are accessible through a single, large, hermetically sealed, 12 locking-bolt door.
