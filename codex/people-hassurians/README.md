@@ -1,5 +1,5 @@
 ---
-description: Human occupants of the Aldria Galaxy and only know intelligent life.
+description: Human occupants of the Aldria Galaxy and only known intelligent life.
 ---
 
 # People (Hassurians)
