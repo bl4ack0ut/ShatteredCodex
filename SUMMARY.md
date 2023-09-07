@@ -134,6 +134,8 @@
     * [Lightwand](codex/technology/lightwand.md)
     * [Morphic Credentials](codex/technology/morphic-credentials.md)
     * [Emergenskin](codex/technology/emergenskin.md)
+  * [Glossary](codex/glossary/README.md)
+    * [pysol](codex/glossary/pysol.md)
   * [Vehicles](codex/vehicles/README.md)
     * [Kakain Chariots](codex/vehicles/kakain-chariots.md)
     * [Imperial Fighters](codex/vehicles/imperial-fighters/README.md)
