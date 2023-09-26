@@ -71,7 +71,6 @@
     * [Vault](codex/colonist-miners-and-their-bases/vault.md)
   * [Imperial Guild](codex/imperial-guild/README.md)
     * [Halogens](codex/imperial-guild/halogens.md)
-    * [Kyroskia Space Guild](codex/imperial-guild/kyroskia-space-guild.md)
     * [Pylon (The Refinery)](codex/imperial-guild/pylon-the-refinery.md)
     * [SkyCutter Peace Treaty](codex/imperial-guild/skycutter-peace-treaty.md)
   * [Resources](codex/resources/README.md)
