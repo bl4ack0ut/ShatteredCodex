@@ -1,5 +1,5 @@
 ---
-description: Brother of White Rabbit. Killed by
+description: Brother of White Rabbit. Killed by Tarkon.
 ---
 
 # Ala'kue
